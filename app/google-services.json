@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "248804092438",
+    "project_id": "yam-cofarmen",
+    "storage_bucket": "yam-cofarmen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248804092438:android:c3ad55dd0591749f3f2337",
+        "android_client_info": {
+          "package_name": "com.weandlaw.aplicacionlegal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248804092438-f0iq33iflfi3us4vbb45olc1aii3q0dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weandlaw.aplicacionlegal",
+            "certificate_hash": "0ffe92b8b3107106c2b9e0b38c046ff43a8be6e2"
+          }
+        },
+        {
+          "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wZGQP61tvGdVMtI9k4sPkq-X0JkNrxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248804092438:android:0aa81e935911842e3f2337",
+        "android_client_info": {
+          "package_name": "com.cofarmenapp.yamcapitalhumano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248804092438-kpsf20019phnftcduqs477mpija162cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cofarmenapp.yamcapitalhumano",
+            "certificate_hash": "c879896d9e2c44acb060281302bcf2219b4c1afd"
+          }
+        },
+        {
+          "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wZGQP61tvGdVMtI9k4sPkq-X0JkNrxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248804092438:android:50e01260cc59212f3f2337",
+        "android_client_info": {
+          "package_name": "com.desarrollo.yamcapitalhumano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248804092438-n88d1tu51nppge5v5gcue5siuku770ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desarrollo.yamcapitalhumano",
+            "certificate_hash": "c879896d9e2c44acb060281302bcf2219b4c1afd"
+          }
+        },
+        {
+          "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wZGQP61tvGdVMtI9k4sPkq-X0JkNrxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248804092438:android:6649fc8e3662c2bc3f2337",
+        "android_client_info": {
+          "package_name": "com.toso.yamcapitalhumano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248804092438-m7s6bbjh7a9df5rg6mvj9gfif7edor06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toso.yamcapitalhumano",
+            "certificate_hash": "0ffe92b8b3107106c2b9e0b38c046ff43a8be6e2"
+          }
+        },
+        {
+          "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wZGQP61tvGdVMtI9k4sPkq-X0JkNrxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248804092438-utojstpkpio6p28baie936bddm9aqltm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
